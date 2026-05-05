@@ -1,0 +1,14 @@
+h1 {
+  background-color: red;
+  color: yellow;
+}
+
+h2 {
+  background-color: blue;
+  color: white;
+}
+
+.subtitulo-impar {
+  background-color: green;
+  color: white;
+}
