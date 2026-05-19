@@ -1,0 +1,34 @@
+/* p {
+  color: green !important;
+} */
+
+p {
+  color: red;
+}
+
+.marron {
+  color: brown;
+}
+
+#azul {
+  color: blue;
+}
+
+#container p {
+  color: orange;
+}
+
+.rojo:hover {
+  color: red;
+  background-color: yellow;
+}
+
+p::before {
+  content: "💥 ";
+  color: purple;
+}
+
+p::after {
+  content: "💥 ";
+  color: purple;
+}
