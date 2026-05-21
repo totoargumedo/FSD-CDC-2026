@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.imagen-criatura {
+  height: 100px;
+}
+.titulo-criatura {
+  background-color: yellow;
+  /* display: inline; */
+  padding: 15px;
+  /* margin: 5px; */
+  margin-bottom: 15px;
+  /* propiedad abreviada */
+  /* margin: 0 0 15px 0; */
+  /* margin: 15px 0; */
+  border: 3px solid black;
+}
+
+.tarjeta-criatura {
+  background-color: blueviolet;
+  width: 500px;
+}
+
+.descripcion-criatura {
+  background-color: red;
+}
+
+.tipo-criatura {
+  background-color: green;
+  /* display: block; */
+  display: inline-block;
+  padding: 5px;
+  margin: 5px;
+  width: 100px;
+  text-align: center;
+  color: white;
+  border-radius: 50px;
+  /* border-top-right-radius: 100px;
+  border-bottom-right-radius: 100px; */
+}
